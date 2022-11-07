@@ -1,9 +1,11 @@
+package Game; 
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;
  
-class Clicker1{
+public class Clicker1{
    //Instance variables  for Main class 
  
    private JButton button;
